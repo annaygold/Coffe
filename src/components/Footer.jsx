@@ -23,10 +23,7 @@ const Footer = () => {
                 </div>
                 <div className='right'>
                     <h4>About the company</h4>
-                    <p>"Lorem ipsum dolor sit amet, consectetur
-                    adipiscing elit, sed do eiusmod tempor
-                    incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam"</p>
+                    <p>Anon Thongsawang 65011252. I started this business since year 2077, with passion to the taste of coffee</p>
                     <div className='social'>
                         <FaFacebook size={30} style={{ color: '#ffffff', marginRight: '1rem' }} />
                         <FaTwitter size={30} style={{ color: '#ffffff', marginRight: '1rem' }} />
